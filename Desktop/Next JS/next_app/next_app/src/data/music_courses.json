@@ -1,0 +1,164 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "Guitar Fundamentals",
+      "slug": "guitar-fundamentals",
+      "description": "Learn the basics of playing guitar with our comprehensive beginner's course.",
+      "price": 99.99,
+      "instructor": "John Doe",
+      "isFeatured": true,
+      "image": "/courses/guitar.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Piano for Beginners",
+      "slug": "piano-for-beginners",
+      "description": "Start your piano journey with essential techniques and popular melodies.",
+      "price": 119.99,
+      "instructor": "Jane Smith",
+      "isFeatured": false,
+      "image": "/courses/piano.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Vocal Mastery",
+      "slug": "vocal-mastery",
+      "description": "Improve your vocal techniques and learn how to perform with confidence.",
+      "price": 89.99,
+      "instructor": "Emily White",
+      "isFeatured": true,
+      "image": "/courses/vocals.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Music Theory Essentials",
+      "slug": "music-theory-essentials",
+      "description": "Understand the foundations of music theory with simple, clear lessons.",
+      "price": 59.99,
+      "instructor": "Michael Green",
+      "isFeatured": false,
+      "image": "/courses/theory.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Drum Beats for Beginners",
+      "slug": "drum-beats-for-beginners",
+      "description": "Learn basic drumming patterns and rhythm exercises for beginners.",
+      "price": 79.99,
+      "instructor": "Chris Black",
+      "isFeatured": true,
+      "image": "/courses/drums.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Advanced Guitar Techniques",
+      "slug": "advanced-guitar-techniques",
+      "description": "Take your guitar skills to the next level with advanced soloing and riffs.",
+      "price": 129.99,
+      "instructor": "John Doe",
+      "isFeatured": false,
+      "image": "/courses/advanced-guitar.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Jazz Piano Improvisation",
+      "slug": "jazz-piano-improvisation",
+      "description": "Master jazz piano improvisation with real-time examples and theory.",
+      "price": 139.99,
+      "instructor": "Jane Smith",
+      "isFeatured": true,
+      "image": "/courses/jazz-piano.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Electronic Music Production",
+      "slug": "electronic-music-production",
+      "description": "Produce EDM, Lo-fi, and more using modern tools like Ableton Live.",
+      "price": 149.99,
+      "instructor": "Alan Walker",
+      "isFeatured": true,
+      "image": "/courses/edm.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Singing for Stage Performance",
+      "slug": "singing-stage-performance",
+      "description": "Learn how to sing on stage with expression, energy, and stamina.",
+      "price": 94.99,
+      "instructor": "Emily White",
+      "isFeatured": false,
+      "image": "/courses/stage-singing.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Sight Reading for Musicians",
+      "slug": "sight-reading-musicians",
+      "description": "Develop sight-reading skills essential for all instrumentalists.",
+      "price": 69.99,
+      "instructor": "Michael Green",
+      "isFeatured": false,
+      "image": "/courses/sight-reading.jpg"
+    },
+    {
+      "id": 11,
+      "title": "Percussion Essentials",
+      "slug": "percussion-essentials",
+      "description": "Learn hand percussion instruments like bongos, congas, and cajon.",
+      "price": 84.99,
+      "instructor": "Chris Black",
+      "isFeatured": true,
+      "image": "/courses/percussion.jpg"
+    },
+    {
+      "id": 12,
+      "title": "Ear Training & Aural Skills",
+      "slug": "ear-training-aural-skills",
+      "description": "Sharpen your ear with interval training, chord recognition and rhythm.",
+      "price": 64.99,
+      "instructor": "Michael Green",
+      "isFeatured": true,
+      "image": "/courses/ear-training.jpg"
+    },
+    {
+      "id": 13,
+      "title": "Build Your Home Studio",
+      "slug": "build-home-studio",
+      "description": "Learn how to set up and record music in your own home studio.",
+      "price": 149.99,
+      "instructor": "Alan Walker",
+      "isFeatured": true,
+      "image": "/courses/home-studio.jpg"
+    },
+    {
+      "id": 14,
+      "title": "Songwriting Bootcamp",
+      "slug": "songwriting-bootcamp",
+      "description": "Write songs from scratch with melody, lyrics, and structure lessons.",
+      "price": 109.99,
+      "instructor": "Emily White",
+      "isFeatured": false,
+      "image": "/courses/songwriting.jpg"
+    },
+    {
+      "id": 15,
+      "title": "Classical Music Appreciation",
+      "slug": "classical-music-appreciation",
+      "description": "Discover the history and beauty of classical music from Bach to Beethoven.",
+      "price": 54.99,
+      "instructor": "Jane Smith",
+      "isFeatured": false,
+      "image": "/courses/classical.jpg"
+    },
+     {
+      "id": 16,
+      "title": "Music Essentials",
+      "slug": "music-essentials",
+      "description": "Learn hand Music instruments like bongos, congas, and cajon.",
+      "price": 84.99,
+      "instructor": "Chris Black",
+      "isFeatured": true,
+      "image": "/courses/music.jpg"
+    }
+  ]
+}
